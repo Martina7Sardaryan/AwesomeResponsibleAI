@@ -351,6 +351,7 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - [The EU AI Act Newsletter](https://artificialintelligenceact.substack.com)
 - [The Machine Learning Engineer](https://ethical.institute/mle.html)
 - [Turing Post](https://turingpost.substack.com)
+- [AI research papers. BuzzRobot AI Newsletter](https://buzzrobot.substack.com/)
 
 ## Principles
 
